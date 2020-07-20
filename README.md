@@ -1,6 +1,6 @@
 Ce repo est composé de 3 app.rb
 
-Chacune d'entre elles a des fonctionnalités lui sont propre
+Chacune d'entre elles a des fonctionnalités qui lui sont propre
 
 app.rb propose la simulation d'un combat entre deux robots (José) et (Josiane) où tout est automatisé...
    Que le meilleur gagne ! 
