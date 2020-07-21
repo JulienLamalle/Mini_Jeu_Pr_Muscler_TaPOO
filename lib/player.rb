@@ -72,7 +72,7 @@ class HumanPlayer < Player
     health_pack = rand(1..6)
     if health_pack == 1
       puts "Tu n'as rien trouvé..."
-    elsif health_pack == [2..5] 
+    elsif health_pack == 2 || health_pack == 3 || health_pack == 4 || health_pack == 5 
       if @life_points + 50 >= 100 
         @life_points = 100
       else 
@@ -91,3 +91,7 @@ class HumanPlayer < Player
     end
   end
 end
+
+
+
+
